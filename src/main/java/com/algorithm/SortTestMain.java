@@ -1,4 +1,6 @@
-package blogger.sort;
+package com.algorithm;
+
+import com.algorithm.impl.*;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;

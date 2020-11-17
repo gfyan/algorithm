@@ -1,4 +1,4 @@
-package blogger.sort;
+package com.algorithm;
 
 /**
  * @author luojie
@@ -9,8 +9,8 @@ public interface ISort {
     /**
      * 排序
      *
-     * @param sourceArray 原数组
-     * @return
+     * @param sourceArray 待排序数组
+     * @return 顺序递增数组
      */
     int[] sort(int[] sourceArray);
 
